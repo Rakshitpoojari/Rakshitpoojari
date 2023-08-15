@@ -83,3 +83,15 @@
 </div>
 
 ###
+<table>
+ <tr>
+  <th style="text-align:center">Stats</th>
+   <th style="text-align:center">Streaks</th>
+ </tr>
+ 
+  <tr>
+  <td><a href="https://github.com/Rakshitpoojari"><img src="https://github-readme-stats.vercel.app/api?username=Rakshitpoojari&show_icons=true&theme=radical&private=true"></a></td>
+   <td><a href="https://github.com/Rakshitpoojari"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Rakshitpoojari&theme=dark&fire=DD2727&private=true"  alt="Rakshitpoojari" /></a></td>
+ </tr>
+ 
+</table>
