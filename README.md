@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakshit Poojari</h1>
 <h3 align="center">A passionate frontend developer, Full Stack Java & MERN Developer from India</h3>
-<img align="right" alt="Coding" width="400" height="300" src="https://img.freepik.com/premium-photo/man-working-computer-with-plant-top_905510-659.jpg?size=626&ext=jpg&ga=GA1.2.1582709058.1692107032&semt=ais">
+<img align="right" alt="Coding" width="350" height="300" src="https://img.freepik.com/premium-photo/man-working-computer-with-plant-top_905510-659.jpg?size=626&ext=jpg&ga=GA1.2.1582709058.1692107032&semt=ais">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitpoojari&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitpoojari" /> </p>
 
