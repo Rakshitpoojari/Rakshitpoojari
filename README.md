@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="115" src="https://img.freepik.com/premium-vector/utch-man-viewed-from-side-behind-laptop-02-copy-5-01_961307-1185.jpg?size=626&ext=jpg&ga=GA1.2.1582709058.1692107032&semt=ais"  />
+<img align="right" height="115" src="https://img.freepik.com/premium-vector/utch-man-viewed-from-side-behind-laptop-02-copy-5-01_961307-1185.jpg?size=626&ext=jpg&ga=GA1.2.1582709058.1692107032&semt=ais"  style="border-radius=12px"/>
 
 ###
 
